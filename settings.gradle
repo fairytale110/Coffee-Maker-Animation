@@ -1,0 +1,2 @@
+rootProject.name='CoffeeMakerUX'
+include ':app'
